@@ -1,5 +1,5 @@
 # Treehouse
-I'll use this repo to practive my git skills and upload Treehouse courses files.
+I'll use this repo to practice my git skills and upload Treehouse courses files.
 Any feedback is welcome! 
 ## Installation
 There should be no installation necessary.
